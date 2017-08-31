@@ -1,3 +1,5 @@
 {
+  "maths": "https://github.com/pluto-language/maths",
+  "collections": "https://github.com/pluto-language/collections",
   "hello-world": "https://github.com/pluto-language/hello-world"
 }
